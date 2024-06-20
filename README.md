@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
-
+<img align = "right" width="400" src = "https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Coding"/>
 - 🔭 I’m currently working on **Netflix clone**
 
 - 📫 How to reach me **aditijasuja13@gmail.com**
